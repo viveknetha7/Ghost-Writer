@@ -1,5 +1,5 @@
 # GhostWriter ✍️
-ghostwriter-nolawywer.netlify.app
+https://ghostwriter-nolawywer.netlify.app
 ### Translate your situation into the language institutions understand — no lawyer needed.
 
 ---
